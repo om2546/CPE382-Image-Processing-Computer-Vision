@@ -7,3 +7,6 @@
 
 ## Homework 2 - Intensity Manipulate
 > This homework is try to adjust intensity in spatial domain. There are 2  works. First one is adjusting intensity by using logarithm and exponential function. And second one is adjusting intensity using histogram-based technique.
+
+## Homework 3 - Spatial Image Filtering
+> This homework is focusing in smoothing filter, to compare difference of kernel size of average filter and kernel size and S.D. of Gaussian filter.
